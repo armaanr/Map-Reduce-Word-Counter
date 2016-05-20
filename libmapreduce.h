@@ -1,14 +1,10 @@
-/** @file libmapreduce.h */
-/*
- * CS 241
- * The University of Illinois
- */
+
 
 #ifndef _LIBMAPREDUCE_H_
 #define _LIBMAPREDUCE_H_
 
 #include <pthread.h>
-#include "libds/libds.h" //remember to put this as libds/libds.h
+#include "libds.h" 
 
 typedef struct _mapreduce_t
 {
