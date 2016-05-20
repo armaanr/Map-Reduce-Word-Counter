@@ -8,7 +8,7 @@
 #include <sys/epoll.h>
 
 #include "libmapreduce.h"
-#include "libds/libds.h"
+#include "libds.h"
 
 
 static const int BUFFER_SIZE = 2048;  /**< Size of the buffer used by read_from_fd(). */
