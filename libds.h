@@ -1,6 +1,5 @@
 /** @file libds.h */
 /* 
- * CS 241
  * The University of Illinois
  */
 
