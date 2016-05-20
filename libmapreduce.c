@@ -1,9 +1,3 @@
-/** @file libmapreduce.c */
-/*
- * CS 241
- * The University of Illinois
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
